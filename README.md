@@ -10,4 +10,4 @@
  
  Now Rust is installed on your machine.
  
- Run the [build script](./buid.sh) and enjoy your game!!!
+ Run the [build script](https://github.com/vscalcione/snake-game-rust/blob/main/build.sh) and enjoy your game!!!
